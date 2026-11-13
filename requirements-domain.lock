@@ -1,0 +1,11 @@
+# AI Disclosure: OpenAI GPT-6 assisted environment capture; AI-generated portions CC0-1.0.
+# Existing project license: EPL-2.0 OR EDL-1.0 (BSD-3-Clause). No human review is claimed.
+hatchling==1.33.0
+iniconfig==2.3.1
+packaging==26.3
+pathspec==1.1.1
+pluggy==1.7.0
+pygments==2.21.0
+pytest==8.4.2
+tomlkit==0.15.2
+trove-classifiers==2026.9.21.13
